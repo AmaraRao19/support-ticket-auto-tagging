@@ -1,0 +1,11 @@
+text,label,predictions
+I can't login to my account,Login Issue,"[('Login Issue', 0.9938158988952637), ('Security Issue', 0.9859095811843872), ('Bug', 0.8661355376243591)]"
+Payment failed but money deducted,Payment Issue,"[('Payment Issue', 0.993032693862915), ('Delivery Issue', 0.6085204482078552), ('Profile Issue', 0.37973594665527344)]"
+App is crashing on startup,Bug,"[('Performance Issue', 0.9807319641113281), ('Bug', 0.9365283250808716), ('Login Issue', 0.6754151582717896)]"
+I forgot my password,Login Issue,"[('Security Issue', 0.9930335879325867), ('Login Issue', 0.9444395303726196), ('Bug', 0.18981139361858368)]"
+Unable to update profile,Profile Issue,"[('Profile Issue', 0.9920870065689087), ('Bug', 0.8894966840744019), ('Login Issue', 0.8703923225402832)]"
+Order not delivered yet,Delivery Issue,"[('Delivery Issue', 0.994367778301239), ('Payment Issue', 0.7996701002120972), ('Performance Issue', 0.5114467740058899)]"
+Refund not received,Refund Issue,"[('Refund Issue', 0.9929617047309875), ('Payment Issue', 0.9401391744613647), ('Delivery Issue', 0.7286016345024109)]"
+Website is too slow,Performance Issue,"[('Performance Issue', 0.9663904309272766), ('Login Issue', 0.4517509639263153), ('Profile Issue', 0.2086237370967865)]"
+Error while uploading file,Bug,"[('Bug', 0.9795052409172058), ('Performance Issue', 0.9113590121269226), ('Delivery Issue', 0.8707990646362305)]"
+Account got hacked,Security Issue,"[('Security Issue', 0.9923350811004639), ('Bug', 0.8804599642753601), ('Login Issue', 0.4883795380592346)]"
